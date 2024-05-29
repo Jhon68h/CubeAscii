@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/rotate.dir/rotate.c.o -o rotate  -lm 

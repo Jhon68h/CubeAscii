@@ -6,4 +6,5 @@ Para compilar y ejecutar el proyecto, sigue estos pasos:
 cd build
 cmake ..
 make
-./rotation
+./rotate
+

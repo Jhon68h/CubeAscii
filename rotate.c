@@ -75,7 +75,7 @@ int main(){
             }
         }
 
-
+	printf("\x1b[H");
         for (int k = 0; k < WIDTH * HEIGHT; k++) {
         putchar(k % WIDTH ? buffer[k] : 10);
         }
